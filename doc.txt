@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 bfdsbsnbsfhgnshfnsfhn
+=======
+uyer;jytoekhyp[rthyws
+>>>>>>> 57c065f684e98768be2ae8132842da7d1828f0b3
 =======
 Change VasylKovalchuk
 >>>>>>> 57ec2cebf886848832a91ad1fc243c8117f3217b
