@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+add information_Demkiv K
+=======
+<<<<<<< HEAD
 <<<<<<< HEAD
 bfdsbsnbsfhgnshfnsfhn
 =======
@@ -7,4 +10,8 @@ uyer;jytoekhyp[rthyws
 =======
 Change VasylKovalchuk
 >>>>>>> 57ec2cebf886848832a91ad1fc243c8117f3217b
+<<<<<<< HEAD
 new data
+=======
+>>>>>>> bc87307079549c5a246425e35fc704458e5f072c
+>>>>>>> cb6d87551d06ba8f29e9db19583ee3303f23239f
